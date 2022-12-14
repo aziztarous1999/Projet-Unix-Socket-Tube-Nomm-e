@@ -1,0 +1,22 @@
+*** Ouverture Du Server ***
+(Client)-> Envoi du question du client qui est :  2 .
+(SERVER)-> Le question du client a ete recu.
+(SERVER)-> Le reponse a ete envoyer!
+(SERVER)-> Le reponse a été recu d'aprés le client.
+(Client)-> Reponse:
+- 5
+- 1
+*** Fermeture Du Serveur ***
+*** Ouverture Du Server ***
+(Client)-> Envoi du question du client qui est :  6 .
+(SERVER)-> Le question du client a ete recu.
+(SERVER)-> Le reponse a ete envoyer!
+(SERVER)-> Le reponse a été recu d'aprés le client.
+(Client)-> Reponse:
+- 1
+- 4
+- 4
+- 5
+- 3
+- 10
+*** Fermeture Du Serveur ***
