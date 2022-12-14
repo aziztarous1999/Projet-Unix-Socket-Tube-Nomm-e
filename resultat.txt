@@ -1,0 +1,52 @@
+*** Ouverture Du Server ***
+(Client)-> Envoi du question du client qui est :  9 .
+(SERVER)-> Le question du client a ete recu.
+(SERVER)-> Le reponse a ete envoyer!
+(Client)-> Reponse:
+- 2
+- 6
+- 7
+- 7
+- 5
+- 10
+- 10
+- 8
+- 4
+*** Fermeture Du Serveur ***
+*** Ouverture Du Server ***
+(Client)-> Envoi du question du client qui est :  4 .
+(SERVER)-> Le question du client a ete recu.
+(SERVER)-> Le reponse a ete envoyer!
+(Client)-> Reponse:
+- 4
+- 4
+- 7
+- 6
+*** Fermeture Du Serveur ***
+*** Ouverture Du Server ***
+(Client)-> Envoi du question du client qui est :  2 .
+(SERVER)-> Le question du client a ete recu.
+(SERVER)-> Le reponse a ete envoyer!
+(Client)-> Reponse:
+- 5
+- 4
+*** Fermeture Du Serveur ***
+*** Ouverture Du Server ***
+(Client)-> Envoi du question du client qui est :  4 .
+(SERVER)-> Le question du client a ete recu.
+(SERVER)-> Le reponse a ete envoyer!
+(Client)-> Reponse:
+- 4
+- 7
+- 8
+- 7
+*** Fermeture Du Serveur ***
+*** Ouverture Du Server ***
+(Client)-> Envoi du question du client qui est :  3 .
+(SERVER)-> Le question du client a ete recu.
+(SERVER)-> Le reponse a ete envoyer!
+(Client)-> Reponse:
+- 4
+- 3
+- 4
+*** Fermeture Du Serveur ***

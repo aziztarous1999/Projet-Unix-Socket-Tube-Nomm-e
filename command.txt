@@ -1,0 +1,3 @@
+gcc test.c -o test
+gcc Handlers_Serv.h serv_cli_fifo.h server.c -o server
+gcc Handlers_Cli.h serv_cli_fifo.h table.h table.c client.c -o client
